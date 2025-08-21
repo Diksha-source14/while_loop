@@ -1,1 +1,1 @@
-package whileloop;
+package whileLoop;

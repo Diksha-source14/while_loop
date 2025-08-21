@@ -1,4 +1,4 @@
-package whileloop;
+package whileLoop;
 
 public class SumOfDigit {
 
